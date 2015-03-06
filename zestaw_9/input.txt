@@ -1,0 +1,15 @@
+3ala ha kota31 ala2 ha kota3 ala ha kota14
+E S 0 0
+E S 0 1
+Z W 0
+Z D 0 0
+Z W 0
+Z S 1 2 0
+Z W 0
+Z D 2 0
+Z W 0
+E D 0 0
+Z W 0
+E D 0 1
+E U 0 0
+Z W 0

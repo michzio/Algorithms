@@ -1,0 +1,9 @@
+MINIMALNE DRZEWO ROZPINAJACE
+Strategia zachłanna typowe zastosowani
+biezemy wszystkie krawedzie
+porzadkujemy wagami min-> wieksze
+i potem dodajemy te z najmniejszymi wagami 
+i dodajemy ta która nie łączy (wazne zeby 2 drzewa w lesie połaczyc w jedno 
+dalej szukam. 
+nie dodajemy czegość co tworzy cykle ? 
+

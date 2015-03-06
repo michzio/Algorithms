@@ -1,0 +1,46 @@
+51
+abcdefghijklmnopqr abcdefghijklmno abcdefghijklmn abcdefghijklmnopqr abcdefghi abcdefg abcdefghijklmn abcde abcde abcdefgh abcdefghi abcdefghij abcdefghi abcdefghijklmno abcdefghijklmn abcdefghijklmno abcdefghijk abcdefghijklmnopqrst abcdefghijklmnopqrs abcdefgh abcdefghijklmnopq abcdefghijklmno abcdefghijkl a abcdefg abcdefg abcdefghijklmno abc abcdefghijk abcdefghijklmnopqrs abcdefghij abcdefghijklmno abcdefghijk abcdefghijklmnopq abcde abcdefghi abcdefghijklmnopqrs abcde abcdefghijklmnopqrst abcdefg abcdefghijklmnopqrst abcdefghi abcdefg abcdefghijk abcdefg abcdefghijklmnopqrs abcdefghijklm abcdefghijklm abcde abcdefghi abcdef 
+5
+33 abcdefghi abcdefghijklmnopq abcdefghijklmnopq abcdefghi abcdefghi abcdefghijklmnopqr abcdefghijklmno abcde abc abcdefghijklmn abcdefghi a abcdefghij abcdefghijk abcdefgh abcde abcdefghijklmnopqrs abcdefg abcdefghi abcde abcdefg abcdefghijk abcdefghijklm abcdefghijklmnopqrs abcdefg abcde abcdefghijklmno abcdefghi abcdefghijklm abcdefghijk abcdefghijklmnopqrst abcdefghijklmnopqrs abcdefghijklmnopqr 
+42 abcdefghijklmn abcdefg abcdefghi abcdefghijk abcdefghi abc abcdefg abcdefg abcdefghi abcdefg abcdefghi abcdefghi abcdefghijklmno abcdef abcdefghijklmno abcdefghijk abcdefghi abcdefghijklmno abcdefghij abcdef abcde abcdefghijklmno abcdefghijklmno abcdefg abcdefghijklmnopqrs abcdefghijklmnopqr abcdefghijklm abcdefghijklmn abcdefghijklmno abcdefghijklmno abcdef abcdefghijklmnopqr abcdefg abcdefghij abcdefghi abcdefghijklmno abcdefghijklmnopqrs abcdefg abcdefg abcdefghijklmnopqrs abcdefghijklmno abcdefg 
+12 abcdefghijklmnopqrs abcdefghijklmnopqrs abcdefghijklmnopqr abcde abcdefghijklmnopqrst abcde abcdefghijkl abcdefghijklmnopq abcdefghijklm abcdefg abcdefghijk abcdefghij 
+14 abcdefghi abcdefghijklmnopqr abcdefghijklmnopqrs abcde abcdefghi abcdefghijklmnopqrst abcdefghijk abcdefghijklmn abcde abcdefghijklmno abcdefghijklmn abcde abcdefghi abcde 
+12 abcdefghij abc abcdefg abcdefghi abcdefg abcdefghij abcdefghijklmn abcdefghijklmno abcdefghijklmnopqrst abcdefghij abcde abcdefghijklmno 
+36
+E D 3 11
+E D 3 4
+Z W 0
+E S 2 23
+Z D 1 4
+E U 2 5
+Z R 0 0 0
+E D 2 16
+E U 4 21
+Z W 3
+Z P 2 4 3
+E S 2 17
+E U 0 6
+Z S 2 0 3
+Z W 0
+Z W 4
+Z W 3
+Z W 4
+E D 1 39
+Z D 3 4
+E D 1 15
+Z R 1 3 3
+Z R 2 3 4
+Z P 1 2 1
+Z R 1 3 0
+E S 0 37
+Z P 0 4 0
+E U 4 10
+E U 4 23
+Z W 3
+E D 0 16
+Z P 4 3 4
+Z D 4 0
+Z S 4 2 1
+E D 2 3
+Z R 4 3 2
+

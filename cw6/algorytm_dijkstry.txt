@@ -1,0 +1,12 @@
+0) inicjalizacja wag INFINITY
+1) wszystkie wierzcholki sasiednie?
+2) zapisanie przegladnietych wierzcholkow w kolejce FIFO
+3) porownywanie wag istniejacej i nowej obliczonej i wpisujemy mniejsza wage 
+
+jak zapamietamy te najkrotsze sciezki
+tablica 
+0 | 1 | 2 | 3 | 4 | 
+___________________
+0 |   |   |   |   |    <--- poprzedniki wierzcholkow
+
+

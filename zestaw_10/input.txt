@@ -1,0 +1,3 @@
+48
+abcdefghij ab abcdefg abcdefg abcd abcdefghij abcdefghijklm abcdefghijkl abcdefghijklmn abc ab abcdefghi abcdefg abcd abcdefghij abcdefghijklmn abcdefghijkl abcdefghijkl abcdefgh abcde abc abcdefg abcdefghi abcdefghijkl abcdefghijklmno abcdefghijklm abcdefghi abcdefg abcdefg abcdefghijklmn abcdefghijkl abcd abcdefghijklmn abcdefghijklm abcdefg abcdefghijkl abcdef abcdefghijklmn abcdefghijklmno a abcdefghijkl abc abcdefghi a abcde abc abcdefghi abcdefghijklmno 
+15 7 14 8 13 9 9 18 15 13 6 11 1 4 13 5 16 16 14 18 9 16 16 9 12 15 11 1 3 6 15 10 17 19 17 4 15 19 18 19 1 6 14 18 15 18 19 19 

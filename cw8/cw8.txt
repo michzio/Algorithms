@@ -1,0 +1,78 @@
+Problem komiwojazera 
+- ostatnio prosty algorytm -> rozwiazanie optymalne zlozonosc n! 
+- algorytmy poslugujace sie heurystyka -> rozwiazania przyblizone 
+- pojecia zwiazane z algorytmem
+- potem zadanie ostatni projekt zaliczeniowy -> najwiecej punktow -> najwazniejsze
+- cykl Hamiltona - cykl przechodzacy dokladnie raz przez wszystkie wierzcholki 
+- czy zawsze znajdziemy taki cykl? nie zawsze -> napewno w pelnym grafie, ale nie tylko 
+- minimialny cykl Hamiltona w n! krokow -> ten algorytm z generowaniem permutacji 
+    * zlozonosci pamieciowej n! dalo sie pozbyc
+    * z przechodzeniem permutacji nie dalo sie 
+- czy kazda permutacja jest poprawna sciezka Hamiltona 
+   - tylko w grafie pelnym kazda wygenerowana permutacja jest cyklem Hamiltona
+   - w kazdym innym musimy to sprawdzic czy jest cyklem
+*****************************************************************************************
+ZADANIE  w 3 wariantach 
+1) najlatwiejszy - wystarczy to zrobic (+10 punktow) 1/3 punktow za oddanie i 2/3 punktow za obrone jak zostalo zaimplementowane - od 2 min do 15 min jezeli watpliwosci
+2) nieco trudniejszy 
+3) bardzo trudny wariant 
+******************************************************************************************
+Wersja 1 
+Graf - przystanki MPK 
+- krawedzie polaczenia pomiedzy przystankami (jezeli linia tramwajowa, autobusowa) 
+- krawedzie grafu maja wagi -> czas przejazdu w minutach 
+- zwykly graf (nieskierowany w obie strony taka sama waga) 
+- znalezienie najkrotszego polaczenia miedzy dwoma wierzcholkami grafu (algorytm Dijkstry przydatny)
+******************************************************************************************
+Wersja 2 
+- pewna liczba przystankow 
+- np podanie 7 przystankow i podanie najkrotszego cyklu miedzy tymi 7 przystankami
+-    nie jest to cykl Hamiltona 
+- moze sie zdazyc ze nie ma danego polaczenia ktore raz odwiedza dany przystanek 
+- moze np musiec 2 razy odwiedzac?  (problem komiwojazera) 
+- dane wejsciowe w formacie jak do tej pory, jedyna roznica ze zamiast numerow to nazwy w postaci stringu ! 
+5
+Kampus UJ: Ruczaj 1 
+- kazdy przystanek ma etykiete i nazwe 
+- dane wejsciowe beda podane 
+- krawedzie etykietowane podwojnie 
+- krawedzie sa wielokrotne 
+- 
+**
+w kazdym zadaniu 2 programiki? 
+*******************************************************************************************
+Wersja 3 
+Ilosc linii 
+Numer Lini
+Trasa tramwaju kolejne przystanki 
+Ilosc polaczen 
+Godziny odjazdu 
+Jakie trudnosci?
+Czasu przejazdow sa rozne pomiedzy przystankami (peak, off peak)
+Czas postoju na przystanku nalezy uwzglednic 
+Dodatkowy parametr wejsciowy do godzina 
+7:00 a pierwszy tramwaj 8:00 to ta godzine musimy dodac?
+********************************************************************************************
+Na zadania czas do konca semestru 
+- widziec czesciowo zrobione zadania 
+- za tydzien juwenalia 
+- za 2 tygodnie pierwsze proby fragmentu problamu 
+- mozna tez na sam koniec oddac ale bardzeiej szczegolowe pytanie
+
+
+Problem komiwojazera 
+-> algorytm ale algorytm ten nie jest stosowalny bo np 100 wierzcholkow -> 100! to zaden komputer sobie nie poradzi 
+
+Kilka algorytmow przyblizonych (moga nie znajdowac rozwiazania optymalnego) 
+- zalozenie ze graf pelny -> dowolna permutacja jest cyklem Hamiltona
+- startujemy od dowolnej permutacji liczymy dlugosc cyklu Hamiltona 
+- sprawdzamy jaka dlugosc 
+- algorytm sochastyczny -> jedna wada ze tak sie generuja ze wszytkie rozwiazania dalekie od optymalnego 
+- jak to usprawnic, zeby miec szanse znalezienia optymalnego algorytmu 
+- 
+
+* szukamy nie sasiadujacych krawedzi i probujemy je zamienic 
+* jeden if sprawdzamy czy te sciezki sa dluzsze od tych dwoch i za kazdym razem bedzie krotszy cykl hamiltona
+* to dalej nie gwarantuje znalezienia optymalnego rozwiazania 
+
+

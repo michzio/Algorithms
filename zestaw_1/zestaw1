@@ -1,0 +1,16 @@
+1) generowanie input.dat: 
+   g++ -o generator generatorTest.cpp
+   ./generator > input.dat
+2) kompilacja programu zestaw1.cpp:
+   g++ -o zestaw1 zestaw1.cpp
+3) uruchomienie programu z wynikem na ekran 
+   ./zestaw1 bubbleSort < input.dat
+   ./zestaw1 selectionSort < input.dat
+   ./zestaw1 insertionSort < input.dat
+   ./zestaw1 countingSort < input.dat
+4) uruchomienie programu z wunikiem do pliku output.dat
+   ./zestaw1 bubbleSort < input.dat > output.dat
+   ./zestaw1 selectionSort < input.dat > output.dat
+   ./zestaw1 insertionSort < input.dat > output.dat
+   ./zestaw1 countingSort < input.dat > output.dat
+   

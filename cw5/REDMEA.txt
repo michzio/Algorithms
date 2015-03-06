@@ -1,0 +1,2 @@
+Kompilacja
+> g++ -std=c++11 -o path shortest_path.cpp

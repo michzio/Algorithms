@@ -1,0 +1,31 @@
+dowolne struktyry danych: tekst, liczby, zdjecia, etc
+to jak mozna taki zbior reprezentowac
+bo dalej chcialbym mozliwosc SUMY, ILOCZYNU, ROZNICY, itd
+gra komputerowa ludzik chodzi i zbiera elementy ? moze nie do konca 
+zalozmy ze elementy bardzo roznego typu 
+
+
+Tablica <bool>
+01010101010101
+
+SUMA OR
+MNOZENIE AND
+POROWNYWANIE -> porownanie 0 i 1 
+ZAWIERANIE SIE -> musimy i tak przyspieszyc telko wartosci logiczne porownujemy 
+CZY MOZNA ZAOSZCZEDZIC PAMIEC? -> z bajtow na bity przechodzimy ? 
+                               -> defakto przyspieszy bo maszyna 32 bitow, 64 bitowa
+                               -> i na raz 32 biy np porownujemy AND, OR szybciej dziala
+                               -> porownywanie tez niby szybsze 
+
+
+ INDESRT
+ INDEX
+ void REMOVE
+ SUMA
+ ROZNICA
+ ILOCZYN
+ POROWNYWANIE
+ ZAWIERANIE
+ //opcjonalnie
+ KONSTRUKTOR KOPIUJACY
+ I OPERATOR PRZYPISANIA
